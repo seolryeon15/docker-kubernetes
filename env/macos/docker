@@ -1,0 +1,4 @@
+docker -v 현재 실행중인 도커 버전
+docker ps 실행중인 도커 목록
+docker run nginx
+docker inspect [컨테이너 ID]
